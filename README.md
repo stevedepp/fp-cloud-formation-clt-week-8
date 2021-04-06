@@ -1,2 +1,5 @@
-# fp-cloud-formation-clt-week-8
-week 8 versions of fp-cloud-formation-clt
+to do:
+- [x] add CLT framework
+- [x] tighten up Lambda IAM role from AdminAccess
+- [x] flask it?
+	
