@@ -1,9 +1,4 @@
 ## demo video for week 8: *CloudFormation Lambda Layers Command Line Tool Major ~~hiccup~~ success*  
-
-to do:
-- [x] add CLT framework
-- [x] tighten up Lambda IAM role from AdminAccess
-- [x] flask it?
 	
 Please click the video to hear sound or follow along with the transcript that's set just below the video.
 
