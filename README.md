@@ -1,13 +1,9 @@
 ## demo video for week 8: *CloudFormation Lambda Layers Command Line Tool Major ~~hiccup~~ success*  
 	
-Please click the video to hear sound or follow along with the transcript that's set just below the video.
+Please unmute the video to hear sound or follow along with the transcript that's set just below the video.  Video resolution improves in full screen.
 
 <video src="https://user-images.githubusercontent.com/38410965/111996814-c792c180-8af0-11eb-8c29-147ebaae2a01.mp4" autoplay controls loop muted style="max-width: 730px;">
 </video>
-
-
-![demo](https://user-images.githubusercontent.com/38410965/111996814-c792c180-8af0-11eb-8c29-147ebaae2a01.mp4
-)
 
 #
 
