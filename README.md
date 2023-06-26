@@ -2,6 +2,10 @@
 	
 Please click the video to hear sound or follow along with the transcript that's set just below the video.
 
+<video src="https://user-images.githubusercontent.com/38410965/111996814-c792c180-8af0-11eb-8c29-147ebaae2a01.mp4" autoplay controls loop muted style="max-width: 730px;">
+</video>
+
+
 ![demo](https://user-images.githubusercontent.com/38410965/111996814-c792c180-8af0-11eb-8c29-147ebaae2a01.mp4
 )
 
